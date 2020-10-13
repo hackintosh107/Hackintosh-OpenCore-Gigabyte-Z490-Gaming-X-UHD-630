@@ -1,4 +1,4 @@
-# Hackintosh-Opencore-Gigabyte-Z490-Gaming-X-UHD-630
+# Hackintosh-OpenCore-Gigabyte-Z490-Gaming-X-UHD-630
 
 # Specifications:
 * CPU: Intel Core i7-10700K
@@ -7,7 +7,7 @@
 * Ethernet: Intel® GbE LAN chip (1000 Mbit/100 Mbit)
 
 # Version: 
-* Opencore: 0.6.1
+* OpenCore: 0.6.2
 
 # Working:
 - [x] Intel UHD Graphics 630
